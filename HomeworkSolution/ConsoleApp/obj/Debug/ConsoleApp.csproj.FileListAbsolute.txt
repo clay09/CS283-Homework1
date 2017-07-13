@@ -6,3 +6,11 @@ c:\users\claychen\documents\visual studio 2017\Projects\HomeworkSolution\Console
 c:\users\claychen\documents\visual studio 2017\Projects\HomeworkSolution\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
 c:\users\claychen\documents\visual studio 2017\Projects\HomeworkSolution\ConsoleApp\obj\Debug\ConsoleApp.exe
 c:\users\claychen\documents\visual studio 2017\Projects\HomeworkSolution\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\ClayChen\Desktop\CS283-Homework1\HomeworkSolution\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\ClayChen\Desktop\CS283-Homework1\HomeworkSolution\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\ClayChen\Desktop\CS283-Homework1\HomeworkSolution\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\ClayChen\Desktop\CS283-Homework1\HomeworkSolution\ConsoleApp\bin\Debug\PokemonLibrary.dll
+C:\Users\ClayChen\Desktop\CS283-Homework1\HomeworkSolution\ConsoleApp\bin\Debug\PokemonLibrary.pdb
+C:\Users\ClayChen\Desktop\CS283-Homework1\HomeworkSolution\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\ClayChen\Desktop\CS283-Homework1\HomeworkSolution\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\ClayChen\Desktop\CS283-Homework1\HomeworkSolution\ConsoleApp\obj\Debug\ConsoleApp.pdb

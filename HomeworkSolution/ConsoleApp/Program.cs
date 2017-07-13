@@ -14,7 +14,7 @@ namespace ConsoleApp
             List<Attack> attack = new List<Attack>();
             attack.Add(new Attack()
             {
-                Mode = "藤編",
+                Mode = "藤鞭",
                 Power = 7
             });
             attack.Add(new Attack
@@ -46,7 +46,7 @@ namespace ConsoleApp
 
             Console.WriteLine($"名稱:{rule.Name}");
             Console.WriteLine($"血量:{rule.Hp}/{rule.Hp} HP");
-            Console.WriteLine($"體重:{rule.Weight} , {rule.Property} , 身高:{rule.Hieght}");
+            Console.WriteLine($"體重:{rule.Weight}kg  , {rule.Property} , 身高:{rule.Hieght}m");
             Console.WriteLine($"星星沙子:{rule.StarSand} , 妙蛙種子的糖果:{rule.Candy}");
             Console.WriteLine($"強化: 星星沙子:{rule.Strengthening.StarSand}  糖果:{rule.Strengthening.Candy}");
             Console.WriteLine($"進化: 糖果:{rule.Evolution.Candy}");
