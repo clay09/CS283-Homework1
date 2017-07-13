@@ -1,0 +1,8 @@
+c:\users\claychen\documents\visual studio 2017\Projects\HomeworkSolution\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+c:\users\claychen\documents\visual studio 2017\Projects\HomeworkSolution\ConsoleApp\bin\Debug\ConsoleApp.exe
+c:\users\claychen\documents\visual studio 2017\Projects\HomeworkSolution\ConsoleApp\bin\Debug\ConsoleApp.pdb
+c:\users\claychen\documents\visual studio 2017\Projects\HomeworkSolution\ConsoleApp\bin\Debug\PokemonLibrary.dll
+c:\users\claychen\documents\visual studio 2017\Projects\HomeworkSolution\ConsoleApp\bin\Debug\PokemonLibrary.pdb
+c:\users\claychen\documents\visual studio 2017\Projects\HomeworkSolution\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\claychen\documents\visual studio 2017\Projects\HomeworkSolution\ConsoleApp\obj\Debug\ConsoleApp.exe
+c:\users\claychen\documents\visual studio 2017\Projects\HomeworkSolution\ConsoleApp\obj\Debug\ConsoleApp.pdb
