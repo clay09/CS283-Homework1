@@ -14,6 +14,8 @@ namespace PokemonLibrary
         /// <summary>血量</summary>
         public int Hp { get; set; }
 
+        public int Cp { get; set; }
+
         /// <summary>體重</summary>
         public float Weight { get; set; }
 

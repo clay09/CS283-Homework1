@@ -3,3 +3,8 @@ c:\users\claychen\documents\visual studio 2017\Projects\Solution\PokemonLibrary\
 c:\users\claychen\documents\visual studio 2017\Projects\Solution\PokemonLibrary\obj\Debug\PokemonLibrary.csprojResolveAssemblyReference.cache
 c:\users\claychen\documents\visual studio 2017\Projects\Solution\PokemonLibrary\obj\Debug\PokemonLibrary.dll
 c:\users\claychen\documents\visual studio 2017\Projects\Solution\PokemonLibrary\obj\Debug\PokemonLibrary.pdb
+C:\Users\ClayChen\Desktop\CS283-Homework1\Solution\PokemonLibrary\bin\Debug\PokemonLibrary.dll
+C:\Users\ClayChen\Desktop\CS283-Homework1\Solution\PokemonLibrary\bin\Debug\PokemonLibrary.pdb
+C:\Users\ClayChen\Desktop\CS283-Homework1\Solution\PokemonLibrary\obj\Debug\PokemonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ClayChen\Desktop\CS283-Homework1\Solution\PokemonLibrary\obj\Debug\PokemonLibrary.dll
+C:\Users\ClayChen\Desktop\CS283-Homework1\Solution\PokemonLibrary\obj\Debug\PokemonLibrary.pdb

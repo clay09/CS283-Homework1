@@ -27,6 +27,7 @@ namespace ConsoleApp
             {
                 Name = "妙蛙種子",
                 Hp = 60,
+                Cp = 60,
                 Weight = 5.94f,
                 Property = "草/毒",
                 Hieght = 0.67f,
@@ -45,7 +46,7 @@ namespace ConsoleApp
             };
 
             Console.WriteLine($"名稱:{rule.Name}");
-            Console.WriteLine($"血量:{rule.Hp}/{rule.Hp} HP");
+            Console.WriteLine($"血量:{rule.Cp}/{rule.Hp} HP");
             Console.WriteLine($"體重:{rule.Weight}kg  , {rule.Property} , 身高:{rule.Hieght}m");
             Console.WriteLine($"星星沙子:{rule.StarSand} , 妙蛙種子的糖果:{rule.Candy}");
             Console.WriteLine($"強化: 星星沙子:{rule.Strengthening.StarSand}  糖果:{rule.Strengthening.Candy}");
