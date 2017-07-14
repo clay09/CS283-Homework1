@@ -11,9 +11,13 @@ namespace PokemonLibrary
         /// <summary>名稱</summary>
         public string Name { get; set; }
 
-        /// <summary>血量</summary>
+        /// <summary>性別</summary>
+        public string Gender { get; set; }
+
+        /// <summary>總血量</summary>
         public int Hp { get; set; }
 
+        /// <summary>變動血量</summary>
         public int Cp { get; set; }
 
         /// <summary>體重</summary>

@@ -26,6 +26,7 @@ namespace ConsoleApp
             Pokemon rule = new Pokemon()
             {
                 Name = "妙蛙種子",
+                Gender = "男",
                 Hp = 60,
                 Cp = 60,
                 Weight = 5.94f,
@@ -46,11 +47,13 @@ namespace ConsoleApp
             };
 
             Console.WriteLine($"名稱:{rule.Name}");
+            Console.WriteLine($"性別:{rule.Gender}");
             Console.WriteLine($"血量:{rule.Cp}/{rule.Hp} HP");
             Console.WriteLine($"體重:{rule.Weight}kg  , {rule.Property} , 身高:{rule.Hieght}m");
             Console.WriteLine($"星星沙子:{rule.StarSand} , 妙蛙種子的糖果:{rule.Candy}");
             Console.WriteLine($"強化: 星星沙子:{rule.Strengthening.StarSand}  糖果:{rule.Strengthening.Candy}");
             Console.WriteLine($"進化: 糖果:{rule.Evolution.Candy}");
+
             foreach (var item in rule.AttackMode)
             {
                 Console.WriteLine($"{item.Mode}  {item.Power}");
